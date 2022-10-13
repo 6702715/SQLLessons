@@ -1,0 +1,1 @@
+insert into salary (first_name, last_name, experienceYears, passedExams, dataOfBirth, email, phone) values ('Gregorius', 'Bett', 12, 14, '1984-06-21', '221122@purevolume.com', '219-416-1229');
